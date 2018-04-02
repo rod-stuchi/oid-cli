@@ -26,5 +26,18 @@ oid -n5
 
 ```
 
-## VIM + UltiSnips
-... 
+## Usage with VIM + UltiSnips
+with single quotes
+```text
+snippet /[']oid/ "MongoDB ObjectId" r
+'`oid`'
+endsnippet
+```
+whitout quotes
+```text
+snippet /[.]oid/ "MongoDB ObjectId" r
+`oid`
+endsnippet
+```
+
+![Demo VIM](./images/vim_demo.gif)
