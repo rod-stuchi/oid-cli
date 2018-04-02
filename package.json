@@ -1,0 +1,15 @@
+{
+  "name": "oid-cli",
+  "version": "1.0.0",
+  "description": "Mongo ObjectId cli without mongoose, mongodrive dependencies",
+  "keywords": ["cli", "generator", "mongodb", "objectid"],
+  "bin": {
+    "oid": "./bin/oid"
+  },
+  "repository": "https://github.com/rod-stuchi/oid-cli",
+  "author": "Rodrigo Stuchi <rod.stuchi@gmail.com> (http://twitter.com/stuchi)",
+  "license": "MIT",
+  "dependencies": {
+    "bson-objectid": "^1.2.2"
+  }
+}
