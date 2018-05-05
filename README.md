@@ -1,6 +1,8 @@
 # oid-cli
 
-A tiny little tool [only 33K install size](https://packagephobia.now.sh/result?p=oid-cli), that allow you generate mongo ObjectId direct in you terminal.
+[![install size](https://packagephobia.now.sh/badge?p=oid-cli@1.0.3)](https://packagephobia.now.sh/result?p=oid-cli@1.0.3)
+
+A tiny little tool only 33K install size, that allow you generate mongo ObjectId direct in you terminal.
 
 ## Installation
 ```console
