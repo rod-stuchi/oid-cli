@@ -1,6 +1,6 @@
 {
   "name": "oid-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Mongo ObjectId cli without mongoose, mongodrive dependencies",
   "keywords": [
     "cli",
